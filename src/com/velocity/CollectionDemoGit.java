@@ -13,6 +13,10 @@ public class CollectionDemoGit
 		list.add(30);
 		list.add(40);
 		System.out.println(list);
+		for(Integer x:list)
+		{
+			System.out.println(list);
+		}
 		
 		
 	}
